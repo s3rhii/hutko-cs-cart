@@ -1,4 +1,4 @@
-# Community hutko Payment Gateway for CS-Cart
+hutko Payment Gateway for CS-Cart
 
 ## English
 
