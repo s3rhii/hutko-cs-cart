@@ -1,5 +1,5 @@
 {*
-    Community hutko Payment Gateway for CS-Cart
+    hutko Payment Gateway for CS-Cart
     This is an independent third-party payment integration for hutko and CS-Cart.
     It is not affiliated with, endorsed by or officially supported by hutko.
     It was developed using publicly available hutko API documentation.

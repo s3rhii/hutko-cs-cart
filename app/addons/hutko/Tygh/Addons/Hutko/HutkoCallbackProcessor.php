@@ -1,6 +1,6 @@
 <?php
 /***************************************************************************
- * Community hutko Payment Gateway for CS-Cart
+ * hutko Payment Gateway for CS-Cart
  *
  * DISCLAIMER:
  * This is an independent third-party payment integration for hutko and CS-Cart.

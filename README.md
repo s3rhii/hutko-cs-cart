@@ -31,7 +31,7 @@ The listed CS-Cart and PHP versions are the target compatibility range for this 
 
 2. Open **Administration → Payment methods**.
 
-3. Create a payment method and select **Community hutko Payment Gateway**.
+3. Create a payment method and select **hutko Payment Gateway**.
 
 4. Enter the hutko `Merchant ID` and `Secret key`.
 
@@ -98,7 +98,7 @@ For plugin bugs or installation issues, contact the independent developer who pu
 
 2. Відкрийте **Адміністрування → Способи оплати**.
 
-3. Створіть спосіб оплати та виберіть **Community hutko Payment Gateway**.
+3. Створіть спосіб оплати та виберіть **hutko Payment Gateway**.
 
 4. Введіть `Merchant ID` і `Secret key` hutko.
 

@@ -1,6 +1,6 @@
 <?php
 /***************************************************************************
- * Community hutko Payment Gateway for CS-Cart
+ * hutko Payment Gateway for CS-Cart
  *
  * DISCLAIMER:
  * This is an independent third-party payment integration for hutko and CS-Cart.
@@ -18,7 +18,7 @@ function fn_hutko_install(): void
     fn_hutko_uninstall();
 
     db_query('INSERT INTO ?:payment_processors ?e', [
-        'processor'          => 'Community hutko Payment Gateway',
+        'processor'          => 'hutko Payment Gateway',
         'processor_script'   => 'hutko.php',
         'processor_template' => 'views/payments/components/cc_processors/hutko.tpl',
         'admin_template'     => 'hutko.tpl',

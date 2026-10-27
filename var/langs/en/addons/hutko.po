@@ -1,13 +1,13 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: cs-cart-hutko-community\n"
+"Project-Id-Version: cs-cart-hutko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
 
 msgctxt "Addons::name::hutko"
-msgid "Community hutko Payment Gateway for CS-Cart"
-msgstr "Community hutko Payment Gateway for CS-Cart"
+msgid "hutko Payment Gateway for CS-Cart"
+msgstr "hutko Payment Gateway for CS-Cart"
 
 msgctxt "Addons::description::hutko"
 msgid "This is an independent third-party payment integration for hutko and CS-Cart. It is not affiliated with, endorsed by or officially supported by hutko. It was developed using publicly available hutko API documentation. For merchant-account or transaction-support questions, contact hutko directly."
