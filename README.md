@@ -137,4 +137,3 @@ For plugin bugs or installation issues, contact the independent developer who pu
 ### Публічні джерела
 
 - hutko API documentation: https://docs.hutko.org/
-- hutko integration repositories: https://github.com/hutko-service/
