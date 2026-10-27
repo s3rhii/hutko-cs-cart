@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-hutko-community\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+
+msgctxt "Addons::name::hutko"
+msgid "Community hutko Payment Gateway for CS-Cart"
+msgstr "Community hutko Payment Gateway for CS-Cart"
+
+msgctxt "Addons::description::hutko"
+msgid "This is an independent third-party payment integration for hutko and CS-Cart. It is not affiliated with, endorsed by or officially supported by hutko. It was developed using publicly available hutko API documentation. For merchant-account or transaction-support questions, contact hutko directly."
+msgstr "This is an independent third-party payment integration for hutko and CS-Cart. It is not affiliated with, endorsed by or officially supported by hutko. It was developed using publicly available hutko API documentation. For merchant-account or transaction-support questions, contact hutko directly."
+
+msgctxt "Languages::hutko.third_party_notice_title"
+msgid "Third-Party Integration Notice"
+msgstr "Third-Party Integration Notice"
+
+msgctxt "Languages::hutko.third_party_disclaimer"
+msgid "This is an independent third-party payment integration for hutko and CS-Cart. It is not affiliated with, endorsed by or officially supported by hutko. It was developed using publicly available hutko API documentation. For merchant-account or transaction-support questions, contact hutko directly."
+msgstr "This is an independent third-party payment integration for hutko and CS-Cart. It is not affiliated with, endorsed by or officially supported by hutko. It was developed using publicly available hutko API documentation. For merchant-account or transaction-support questions, contact hutko directly."
+
+msgctxt "Languages::hutko.merchant_id_tooltip"
+msgid "Enter your numeric hutko Merchant ID from the hutko merchant portal."
+msgstr "Enter your numeric hutko Merchant ID from the hutko merchant portal."
+
+msgctxt "Languages::hutko.secret_key_tooltip"
+msgid "Enter your hutko Secret key (kept strictly server-side for SHA-1 signature generation and verification)."
+msgstr "Enter your hutko Secret key (kept strictly server-side for SHA-1 signature generation and verification)."
+
+msgctxt "Languages::hutko.use_order_currency"
+msgid "Use order/checkout currency"
+msgstr "Use order/checkout currency"
+
+msgctxt "Languages::hutko.pending_order_status"
+msgid "Pending order status"
+msgstr "Pending order status"
+
+msgctxt "Languages::hutko.paid_order_status"
+msgid "Paid order status"
+msgstr "Paid order status"
+
+msgctxt "Languages::hutko.failed_order_status"
+msgid "Failed/declined order status"
+msgstr "Failed/declined order status"
+
+msgctxt "Languages::hutko.enable_logging"
+msgid "Log redacted HTTP requests in CS-Cart Administration -> Logs"
+msgstr "Log redacted HTTP requests in CS-Cart Administration -> Logs"
+
+msgctxt "Languages::hutko.payment_pending_confirmation"
+msgid "Your payment is being processed. Your order status will update automatically once the server callback is received."
+msgstr "Your payment is being processed. Your order status will update automatically once the server callback is received."
+
+msgctxt "Languages::hutko.return_order_not_found"
+msgid "Unable to locate the order associated with this return URL."
+msgstr "Unable to locate the order associated with this return URL."
+
+msgctxt "Languages::hutko.error_missing_credentials"
+msgid "Payment method configuration error: Merchant ID and Secret key are required."
+msgstr "Payment method configuration error: Merchant ID and Secret key are required."
+
+msgctxt "Languages::hutko.error_invalid_gateway_response"
+msgid "The payment gateway returned an error while initializing checkout."
+msgstr "The payment gateway returned an error while initializing checkout."
+
+msgctxt "Languages::hutko.error_invalid_checkout_url"
+msgid "Received an invalid checkout redirect URL."
+msgstr "Received an invalid checkout redirect URL."

@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-hutko-community\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+
+msgctxt "Addons::name::hutko"
+msgid "Community hutko Payment Gateway for CS-Cart"
+msgstr "Community hutko Payment Gateway for CS-Cart (Спільнота)"
+
+msgctxt "Addons::description::hutko"
+msgid "This is an independent third-party payment integration for hutko and CS-Cart. It is not affiliated with, endorsed by or officially supported by hutko. It was developed using publicly available hutko API documentation. For merchant-account or transaction-support questions, contact hutko directly."
+msgstr "Це незалежна стороння платіжна інтеграція для hutko та CS-Cart. Вона не є афілійованою, схваленою чи офіційно підтримуваною hutko. Вона була розроблена з використанням публічно доступної документації API hutko. З питань мерчант-акаунту або підтримки транзакцій звертайтеся безпосередньо до hutko."
+
+msgctxt "Languages::hutko.third_party_notice_title"
+msgid "Third-Party Integration Notice"
+msgstr "Повідомлення про сторонню розробку"
+
+msgctxt "Languages::hutko.third_party_disclaimer"
+msgid "This is an independent third-party payment integration for hutko and CS-Cart. It is not affiliated with, endorsed by or officially supported by hutko. It was developed using publicly available hutko API documentation. For merchant-account or transaction-support questions, contact hutko directly."
+msgstr "Це незалежна стороння платіжна інтеграція для hutko та CS-Cart. Вона не є афілійованою, схваленою чи офіційно підтримуваною hutko. Вона була розроблена з використанням публічно доступної документації API hutko. З питань мерчант-акаунту або підтримки транзакцій звертайтеся безпосередньо до hutko."
+
+msgctxt "Languages::hutko.merchant_id_tooltip"
+msgid "Enter your numeric hutko Merchant ID from the hutko merchant portal."
+msgstr "Вкажіть числовий Merchant ID з вашого мерчант-порталу hutko."
+
+msgctxt "Languages::hutko.secret_key_tooltip"
+msgid "Enter your hutko Secret key (kept strictly server-side for SHA-1 signature generation and verification)."
+msgstr "Вкажіть ваш Secret key від hutko (зберігається виключно на сервері для формування та перевірки SHA-1 підпису)."
+
+msgctxt "Languages::hutko.use_order_currency"
+msgid "Use order/checkout currency"
+msgstr "Використовувати валюту замовлення"
+
+msgctxt "Languages::hutko.pending_order_status"
+msgid "Pending order status"
+msgstr "Статус очікування оплати"
+
+msgctxt "Languages::hutko.paid_order_status"
+msgid "Paid order status"
+msgstr "Статус успішної оплати"
+
+msgctxt "Languages::hutko.failed_order_status"
+msgid "Failed/declined order status"
+msgstr "Статус відхиленої або простроченої оплати"
+
+msgctxt "Languages::hutko.enable_logging"
+msgid "Log redacted HTTP requests in CS-Cart Administration -> Logs"
+msgstr "Логувати очищені HTTP-запити в Адміністрування -> Журнал подій"
+
+msgctxt "Languages::hutko.payment_pending_confirmation"
+msgid "Your payment is being processed. Your order status will update automatically once the server callback is received."
+msgstr "Ваш платіж обробляється. Статус замовлення оновиться автоматично після отримання серверного callback-повідомлення."
+
+msgctxt "Languages::hutko.return_order_not_found"
+msgid "Unable to locate the order associated with this return URL."
+msgstr "Не вдалося знайти замовлення, пов'язане з цим URL повернення."
+
+msgctxt "Languages::hutko.error_missing_credentials"
+msgid "Payment method configuration error: Merchant ID and Secret key are required."
+msgstr "Помилка конфігурації способу оплати: необхідно вказати Merchant ID та Secret key."
+
+msgctxt "Languages::hutko.error_invalid_gateway_response"
+msgid "The payment gateway returned an error while initializing checkout."
+msgstr "Платіжний шлюз повернув помилку під час ініціалізації оплати."
+
+msgctxt "Languages::hutko.error_invalid_checkout_url"
+msgid "Received an invalid checkout redirect URL."
+msgstr "Отримано некоректне посилання для переходу на сторінку оплати."
